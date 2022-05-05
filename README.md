@@ -18,6 +18,6 @@ Simple pipeline to deploy and promote application.
 **Steps**
 
 1. Get container digest currently running in lower env (DEV)
-2 Deploy the container
+2. Deploy the container
 
 This pipeline can also deploy a specific container image digest
